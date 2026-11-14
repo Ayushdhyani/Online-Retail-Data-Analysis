@@ -123,8 +123,6 @@ data-science-week1-assignment/
 ├── data/
 │   ├── raw/
 │   │   └── Online_Retail.xlsx
-│   └── cleaned/
-│       └── clean_dataset.csv
 │
 ├── notebooks/
 │   └── week1_analysis.ipynb
