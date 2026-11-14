@@ -79,7 +79,7 @@ The cleaned dataset was saved separately to preserve the original raw data.
 
 | KPI | Result |
 |---|---:|
-| Gross Sales Revenue | £10,640,211.08 |
+| Gross Sales Revenue | £10,642,110.8 |
 | Net Sales Revenue | £9,748,131.07 |
 | Total Orders | 19,960 |
 | Total Units Sold | 5,572,420 |
