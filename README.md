@@ -118,11 +118,13 @@ All generated charts are stored in the `outputs/charts/` directory.
 ## 10. Project Folder Structure
 
 ```text
-data-science-week1-assignment/
+Online-Retail-Data-Analysis/
 │
 ├── data/
 │   ├── raw/
 │   │   └── Online_Retail.xlsx
+│   └── cleaned/
+│       └── (Dataset stored locally)
 │
 ├── notebooks/
 │   └── week1_analysis.ipynb
@@ -131,7 +133,7 @@ data-science-week1-assignment/
 │   └── charts/
 │
 ├── README.md
-└── requirements.txt
+└── .gitignore
 ```
 
 ## 11. How to Run the Project
