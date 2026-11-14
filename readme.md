@@ -28,6 +28,14 @@ The dataset used in this project is the **Online Retail Dataset** from the UCI M
 
 Dataset link: https://archive.ics.uci.edu/dataset/352/online+retail
 
+## Dataset
+
+The cleaned dataset is approximately 102 MB
+and is not included in this repository due
+to GitHub's file upload size limitations.
+
+The dataset is stored locally.
+
 ## 3. Tools and Technologies
 
 The following tools and libraries were used:
